@@ -17,7 +17,7 @@ This is one of the assignments of a TensorFlow course on Coursera.
 
 
 
-Exercise 2-  Trainin to Predict 99% accuracy for handwriting datset (MNIST_classifier_to_test_handwriting.ipynb)
+Exercise 2- Predict 99% accuracy for handwriting datset (MNIST_classifier_to_test_handwriting.ipynb)
 
 In this exercise, we'll do classification using dataset called MNIST which has items of handwriting -- the digits 0 through 9.
 MNIST dataset is already present in Keras library. So, we'll upload it from there.
