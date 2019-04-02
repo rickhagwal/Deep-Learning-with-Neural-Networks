@@ -16,6 +16,7 @@ it would predict a 7 bedroom house as costing close to 400k etc.
 This is one of the assignments of a TensorFlow course on Coursera.
 
 2.) INTRODUCTION TO COMPUTER VISION
+(Creating neural network with multiple layers)
 
 Example - Predict 99% accuracy for handwriting datset (MNIST_classifier_to_test_handwriting.ipynb)
 
