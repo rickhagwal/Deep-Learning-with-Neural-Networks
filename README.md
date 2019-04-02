@@ -1,7 +1,7 @@
 # Deep-Learning-with Neural Networks
 
 
-Here's a basic example of creating neural network with one layer in TensorFlow and Google Colab notebook. 
+1.) Here's a basic example of creating neural network with one layer in TensorFlow and Google Colab notebook. 
 
 Example 1- Predicting House Prices (Predict_House_Prices_(1).ipynb)
 
@@ -15,7 +15,7 @@ it would predict a 7 bedroom house as costing close to 400k etc.
 
 This is one of the assignments of a TensorFlow course on Coursera.
 
-INTRODUCTION TO COMPUTER VISION
+2.) INTRODUCTION TO COMPUTER VISION
 
 Exercise 2- Predict 99% accuracy for handwriting datset (MNIST_classifier_to_test_handwriting.ipynb)
 
