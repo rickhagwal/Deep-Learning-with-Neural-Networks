@@ -1,4 +1,4 @@
-# Deep-Learning-with-TensorFlow-
+# Deep-Learning-with Neural Networks
 
 
 Here's a basic example of creating neural network with one layer in TensorFlow and Google Colab notebook. 
